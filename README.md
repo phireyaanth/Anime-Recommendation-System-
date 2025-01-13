@@ -1,4 +1,3 @@
-Anime Recommendation System
 Overview
 This project is a content-based recommendation system designed to suggest the most relevant anime titles based on a given input anime. The system processes over 20,000 anime titles and provides personalized recommendations by analyzing various features like title, genre, synopsis, and episode count. The goal is to help users discover new anime based on their preferences efficiently and accurately.
 
